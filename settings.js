@@ -4,7 +4,7 @@ const chalk = require('chalk')
 const { en, es, ar, id, pt, rs} = require('./libs/idiomas/total-idiomas.js') 
 
 //---------[ PROPIETARIO/OWNER ]---------
-global.owner = [["5492645589171", "Owner", true]]
+global.owner = [["5492645589171", "Juan Carlos Tercero", true]]
 global.mods = []
 global.premium = []  
 global.blockList = []  
@@ -15,8 +15,8 @@ global.wm = 'Ｎ Ｏ Ｖ Ａ Ｂ Ｏ Ｔ- Ｍ Ｄ 💫'
 global.vs = '1.1.5'
 
 //Función beta : escribe el número que quiere que sea bot para que mande el Código de 8 digitos
-global.botNumberCode = "" //Ejemplo: +59309090909
-global.phoneNumber = ""
+global.botNumberCode = "5492645589192" //Ejemplo: +59309090909
+global.phoneNumber = "+54 9 2645 58-9192"
 
 //---------[ FECHA/IDIOMAS ]---------
 global.place = 'America/Bogota' // Aquí puedes encontrar tu ubicación https://momentjs.com/timezone/
